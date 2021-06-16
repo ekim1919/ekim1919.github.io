@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About Me
-
  I'm Edward Kim (김효민, 金曉民). My interests are generally in the Mathematical Foundations of Quantum Computation and their intersections with Computer Science.
 
   * Quantum Complexity Theory

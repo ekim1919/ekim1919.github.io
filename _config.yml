@@ -26,11 +26,11 @@ footer-links:
   flickr:
   github:
   instagram:
-  linkedin: 
+  linkedin:
   pinterest:
   rss:
   twitter:
-  stackoverflow: 
+  stackoverflow:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
@@ -38,7 +38,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: 
+disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
@@ -86,6 +86,7 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-redirect-from
 
 include: ['_pages']
 
@@ -99,4 +100,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
