@@ -19,3 +19,7 @@ title: Papers
 * [Random Local Quantum Circuits as Unitary 2-designs](https://github.com/ekim1919/Research/blob/master/QIT/2Designs/final.pdf)
 
 * [On the Schur-Weyl Duality and its Role in Quantum Information](https://github.com/ekim1919/QuanInformation/blob/master/SchurWeyl/final.pdf)
+
+## Projects
+
+*[Analyzing AlphaGo Matches using Persistence Homology](https://github.com/ekim1919/TDAGo/blob/master/paper/final.pdf)
