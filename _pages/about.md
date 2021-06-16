@@ -9,3 +9,5 @@ permalink: /about/
   * Quantum Complexity Theory
   * Quantum Error Correction
   * Topological Quantum Information  
+
+  [Link to CV](https://github.com/ekim1919/CV/blob/master/current/EdwardKimCV.pdf)
