@@ -22,4 +22,4 @@ title: Papers
 
 ## Projects
 
-*[Analyzing AlphaGo Matches using Persistence Homology](https://github.com/ekim1919/TDAGo/blob/master/paper/final.pdf)
+* [Analyzing AlphaGo Matches using Persistence Homology](https://github.com/ekim1919/TDAGo/blob/master/paper/final.pdf)
