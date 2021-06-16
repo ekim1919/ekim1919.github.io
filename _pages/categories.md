@@ -1,24 +1,21 @@
 ---
 layout: page
-permalink: /categories/
-title: Categories
+permalink: /papers/
+title: Papers
 ---
 
+[Google Scholar](https://scholar.google.com/citations?user=Wn6iETgAAAAJ&hl=en&authuser=2)
 
-<div id="archives">
-{% for category in site.categories %}
-  <div class="archive-group">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <div id="#{{ category_name | slugize }}"></div>
-    <p></p>
-    
-    <h3 class="category-head">{{ category_name }}</h3>
-    <a name="{{ category_name | slugize }}"></a>
-    {% for post in site.categories[category_name] %}
-    <article class="archive-item">
-      <h4><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a></h4>
-    </article>
-    {% endfor %}
-  </div>
-{% endfor %}
-</div>
+# Publications
+
+* **Edward Kim**, Stanley Bak, Parasara Sridhar Duggirala: Automatic Dynamic Parallelotope Bundles for Reachability Analysis of Nonlinear Systems, \emph{In submission}, arXiv preprint arXiv:2105.11796
+* **Edward Kim**, Parasara Sridhar Duggirala: Kaa: A Python Implementation of Reachable Set Computation Using Bernstein Polynomials, 7th Int. Workshop on Applied Verification for Continuous and Hybrid Systems, 2020
+* Wei-Kai Lai, **Edward Kim**:  Some inequalities involving geometric and harmonic means, International Mathematical Forum, Vol. 11, 2016, no. 4, 163-169
+
+# Expositions
+
+* [On the Fourier Analysis of Boolean Functions and the Linial-Mansour-Nisan Theorem](https://github.com/ekim1919/Research/blob/master/Complexity/LMNTheorem/paper.pdf)
+
+* [Random Local Quantum Circuits as Unitary 2-designs](https://github.com/ekim1919/Research/blob/master/QIT/2Designs/final.pdf)
+
+* [On the Schur-Weyl Duality and its Role in Quantum Information][https://github.com/ekim1919/QuanInformation/blob/master/SchurWeyl/final.pdf]
