@@ -14,7 +14,7 @@ title: Papers
 
 ## Other Contributions
 
-* Stanley Bak, **Edward Kim**, Parasara Sridhar Duggirala: COVID Infection Prediction using CPS Formal Verification Methods, ACM SIGBED Blog, June 21, 2021. 
+* Stanley Bak, **Edward Kim**, Parasara Sridhar Duggirala: COVID Infection Prediction using CPS Formal Verification Methods, ACM SIGBED Blog, June 21, 2021. [Link](https://sigbed.org/2021/06/21/sidbed-blog-covid-formal-verification/)
 
 ## Expositions
 
