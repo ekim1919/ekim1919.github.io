@@ -12,6 +12,10 @@ title: Papers
 * **Edward Kim**, Parasara Sridhar Duggirala: Kaa: A Python Implementation of Reachable Set Computation Using Bernstein Polynomials, 7th Int. Workshop on Applied Verification for Continuous and Hybrid Systems, 2020
 * Wei-Kai Lai, **Edward Kim**:  Some inequalities involving geometric and harmonic means, International Mathematical Forum, Vol. 11, 2016, no. 4, 163-169
 
+## Other Contributions
+
+* Stanley Bak, **Edward Kim**, Parasara Sridhar Duggirala: COVID Infection Prediction using CPS Formal Verification Methods, ACM SIGBED Blog, June 21, 2021. [Link](https://sigbed.org/2021/06/21/sidbed-blog-covid-formal-verification/)
+
 ## Expositions
 
 * [On the Fourier Analysis of Boolean Functions and the Linial-Mansour-Nisan Theorem](https://github.com/ekim1919/Research/blob/master/Complexity/LMNTheorem/paper.pdf)
