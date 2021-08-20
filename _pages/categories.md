@@ -20,6 +20,7 @@ title: Papers
 * [Kaa: A Python Implementation of Reachable Set Computation Using Bernstein Polynomial](https://easychair.org/publications/open/Flp2)  
   **Edward Kim**, Parasara Sridhar Duggirala  
  7th Int. Workshop on Applied Verification for Continuous and Hybrid Systems, 2020
+
 * [Some inequalities involving geometric and harmonic means]()  
   Wei-Kai Lai, **Edward Kim**  
   **International Mathematical Forum, Vol. 11, 2016, no. 4, 163-169**
@@ -32,15 +33,20 @@ title: Papers
 
 ## Expositions
 
-* [On the Fourier Analysis of Boolean Functions and the Linial-Mansour-Nisan Theorem](https://github.com/ekim1919/Research/blob/master/Complexity/LMNTheorem/paper.pdf)
+* [On the Fourier Analysis of Boolean Functions and the Linial-Mansour-Nisan Theorem](https://github.com/ekim1919/Research/blob/master/Complexity/LMNTheorem/paper.pdf)  
+  Written as final project for Circuit Complexity class (Duke CPS 590).
 
-* [Random Local Quantum Circuits as Unitary 2-designs](https://github.com/ekim1919/Research/blob/master/QIT/2Designs/final.pdf)
+* [Random Local Quantum Circuits as Unitary 2-designs](https://github.com/ekim1919/Research/blob/master/QIT/2Designs/final.pdf)  
+    An annotation and review of _Random quantum circuits are approximate 2-designs,_ by Aram W. Harrow and Richard A. Low. The final result of a directed reading conducted during the Spring 2020 semester (Duke PHYS 791).
 
-* [On the Schur-Weyl Duality and its Role in Quantum Information](https://github.com/ekim1919/QuanInformation/blob/master/SchurWeyl/final.pdf)
+* [On the Schur-Weyl Duality and its Role in Quantum Information](https://github.com/ekim1919/QuanInformation/blob/master/SchurWeyl/final.pdf)  
+  An exposition of the Schur-Weyl Duality and its role in seminal proofs found in Quantum Information Theory. The final project for Quantum Information Theory class (Duke PHYS 590). The notes are still extended as I learn more about representation-theoretic techniques used in QIT.
 
 ## Projects and Tools
 
-* [Analyzing AlphaGo Matches using Persistence Homology](https://github.com/ekim1919/TDAGo/blob/master/paper/final.pdf)
+* [TDAGo: Analyzing AlphaGo Matches using Persistence Homology](https://github.com/ekim1919/TDAGo/blob/master/paper/final.pdf)  
+  Python program to analyze Go games using Persistence Homology for Duke’s Topological Data Analysis class. Used the evolution of persistence diagrams to detect topologically-significant features of games played between iterations of Google Deepmind’s AlphaGo  
+  ([Code](https://github.com/ekim1919/TDAGo))
 
-* [Kaa](https://github.com/Tarheel-Formal-Methods/kaa-dynamic)  
-  A reachablity analysis tool created to investigate computing automatic dynamic parallelotope bundles for reachability of discrete non-linear dynamical systems
+* [Kaa: Non-linear Reachability Analysis using Dynamic Parallelotope Bundles](https://github.com/Tarheel-Formal-Methods/kaa-dynamic)  
+  Software created to experiment with reachable set computations of non-linear systems governed under discrete polynomial dynamics. The project was specifically created to understand the effectiveness of dynamically-reorienting parallelotope bundles on improving the quality over-approximations of reachable sets. It is the first experimental software created to properly plot the evolution of these dynamic bundle strategies for practitioners to understand the efficacy of different bundle strategies. It significantly improved the usability of previously existing reachable set simulators using these techniques.
