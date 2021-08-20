@@ -3,7 +3,6 @@ layout: page
 permalink: /papers/
 title: Papers
 ---
-[Google Scholar](https://scholar.google.com/citations?user=Wn6iETgAAAAJ&hl=en&authuser=2)
 
 ## Publications
 
@@ -19,7 +18,7 @@ title: Papers
 
 * [Kaa: A Python Implementation of Reachable Set Computation Using Bernstein Polynomial](https://easychair.org/publications/open/Flp2)  
   **Edward Kim**, Parasara Sridhar Duggirala  
- 7th Int. Workshop on Applied Verification for Continuous and Hybrid Systems, 2020
+ **7th Int. Workshop on Applied Verification for Continuous and Hybrid Systems, 2020**
 
 * [Some inequalities involving geometric and harmonic means]()  
   Wei-Kai Lai, **Edward Kim**  
