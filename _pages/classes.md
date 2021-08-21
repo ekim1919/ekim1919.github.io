@@ -5,6 +5,7 @@ permalink: /courses/
 ---
 
 # UNC Chapel Hill / Duke
+
 |CS | Mathematics | Quantum Information |
 | :------------: | :-----------: | :-----------: |
 |Randomized Algorithms     |  Representation Theory of Lie Algebras              | Quantum Information Theory |
