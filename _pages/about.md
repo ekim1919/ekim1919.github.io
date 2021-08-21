@@ -10,10 +10,10 @@ redirect_from:
 
   * Quantum Complexity Theory
   * Quantum Error Correction
-  * Topological Quantum Information 
+  * Topological Quantum Information
 
   ![Profile Picture](/images/profile.jpg){:class="img-responsive"}
 
-  [Link to CV](https://github.com/ekim1919/CV/blob/master/current/EdwardKimCV.pdf)
-  
+  [Link to CV](https://github.com/ekim1919/CV/blob/master/current/EdwardKimCV.pdf)  
+  [List of Courses]({% link _pages/classes.md %})  
   [PGP PubKey](https://ekim1919.github.io/pubkey.asc)

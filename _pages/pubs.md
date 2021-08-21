@@ -1,14 +1,13 @@
 ---
 layout: page
 permalink: /papers/
-title: Papers
 ---
 
 ## Publications
 
 * [ARCH-COMP21 Category Report: Continuous and Hybrid Systems with Nonlinear Dynamics]()  
   Luca Geretti, Julien Alexandre dit Sandretto, Matthias Althoff, Luis Benet, Alexandre Chapoutot, Pieter Collins, Parasara Sridhar Duggirala, Marcelo Forets, **Edward Kim**, Uziel Linares, David P. Sanders, Christian Schilling, and Mark Wetzlinger  
-  **8th Int. Workshop on Applied Verification for Continuous and Hybrid Systems, 2021**
+  **8th Int. Workshop on Applied Verification for Continuous and Hybrid Systems (ARCH 2021)**
 
 
 * [Automatic Dynamic Parallelotope Bundles for Reachability Analysis of Nonlinear Systems]()  
@@ -18,7 +17,7 @@ title: Papers
 
 * [Kaa: A Python Implementation of Reachable Set Computation Using Bernstein Polynomial](https://easychair.org/publications/open/Flp2)  
   **Edward Kim**, Parasara Sridhar Duggirala  
- **7th Int. Workshop on Applied Verification for Continuous and Hybrid Systems, 2020**
+ **7th Int. Workshop on Applied Verification for Continuous and Hybrid Systems (ARCH 2020)**
 
 * [Some inequalities involving geometric and harmonic means]()  
   Wei-Kai Lai, **Edward Kim**  
