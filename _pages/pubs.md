@@ -23,22 +23,32 @@ permalink: /papers/
   Wei-Kai Lai, **Edward Kim**  
   **International Mathematical Forum, Vol. 11, 2016, no. 4, 163-169**
 
+---
+
 ## Other Contributions
 
 * [COVID Infection Prediction using CPS Formal Verification Methods](https://sigbed.org/2021/06/21/sidbed-blog-covid-formal-verification/)  
   Stanley Bak, **Edward Kim**, Parasara Sridhar Duggirala  
   **ACM SIGBED Blog, June 21, 2021**
 
+---
+
 ## Expositions
+
+### Computational Complexity
 
 * [On the Fourier Analysis of Boolean Functions and the Linial-Mansour-Nisan Theorem](https://github.com/ekim1919/Research/blob/master/Complexity/LMNTheorem/paper.pdf)  
   Written as final project for Circuit Complexity class (Duke CPS 590).
+
+### Quantum Information
 
 * [Random Local Quantum Circuits as Unitary 2-designs](https://github.com/ekim1919/Research/blob/master/QIT/2Designs/final.pdf)  
     An annotation and review of _Random quantum circuits are approximate 2-designs,_ by Aram W. Harrow and Richard A. Low. The final result of a directed reading conducted during the Spring 2020 semester (Duke PHYS 791).
 
 * [On the Schur-Weyl Duality and its Role in Quantum Information](https://github.com/ekim1919/QuanInformation/blob/master/SchurWeyl/final.pdf)  
   An exposition of the Schur-Weyl Duality and its role in seminal proofs found in Quantum Information Theory. The final project for Quantum Information Theory class (Duke PHYS 590). The notes are still in the process of being extended as I learn more about representation-theoretic techniques used in QIT.
+
+---
 
 ## Projects and Tools
 
