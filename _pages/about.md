@@ -6,7 +6,7 @@ redirect_from:
   - /
 ---
 
- I'm Edward Kim (김효민, 金曉民). My interests are generally in the Mathematical Foundations of Quantum Computation and their intersections with Computer Science. I completed my undergraduate at [UC Berkeley](https://cs.berkeley.edu/) with degrees in Computer Science and Pure Mathematics. I'm currently at [UNC Chapel Hill](https://cs.unc.edu/) doing my Masters under [Prof. Parasara Sridhar Duggirala](https://www.cs.unc.edu/~psd/).
+ I'm Edward Kim (김효민, 金曉民). My interests are generally in the Mathematical Foundations of Quantum Computation and their intersections with Computer Science. I completed my undergraduate at [UC Berkeley](https://cs.berkeley.edu/) with degrees in Computer Science and Pure Mathematics. I'm currently at [UNC Chapel Hill](https://cs.unc.edu/) doing my Masters under [Prof. Parasara Sridhar Duggirala](https://www.cs.unc.edu/~psd/). Besides that, I've had the great fortune of learning and receiving guidance from [Prof. Iman Marvian](https://sites.duke.edu/marvian/) in the realm of Quantum Computation and Information. 
 
   * Quantum Complexity Theory  
   * Quantum Error Correction  
