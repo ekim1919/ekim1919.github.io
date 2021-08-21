@@ -12,7 +12,7 @@ permalink: /courses/
 |Circuit Complexity      |   Differential Geometry   | Advanced Topics in QIT |
 | Anaysis on Boolean Functions   |  Lie Groups  | |
 | Introduction to Cryptography      | Topological Data Analysis | |
-| |Homological Algebra | |
+| Computer Vision |Homological Algebra | |
 
 
 # UC Berkeley
