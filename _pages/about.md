@@ -18,5 +18,5 @@ Besides the above, I have hobby interests in Homebrew Computing, Pure Math, Fina
 
   [Link to CV](https://github.com/ekim1919/CV/blob/master/current/EdwardKimCV.pdf)  
   [List of Courses]({% link _pages/classes.md %})  
-  [PGP PubKey](https://ekim1919.github.io/pubkey.asc)
+  [PGP PubKey](https://ekim1919.github.io/pubkey.asc)  
   [Github](https://github.com/ekim1919)
