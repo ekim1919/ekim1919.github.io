@@ -63,4 +63,11 @@ title: Academic Work
 
 * [RNNSPDNet: Geometric Deep Learning on fMRI images]()  
     Final Project for Computer Vision (UNC COMP 776). We experimented with Geometric Deep Learning on SPD (Symmetric Positive Definite) matrices arising from BOLD signals derived from Functional MR images. In particular, we formulated an RNN variant of [SPDNet](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewFile/14633/14371) to see if it yielded better classification results. Joint work with [Juan Garcia](https://github.com/jjgarciac).  
-    ([Code](https://github.com/ekim1919/RNNSPDNet))  
+    ([Code](https://github.com/ekim1919/RNNSPDNet))
+
+--
+
+## Services
+
+- UNC Real-Time/Cyber-Physical Lunch Seminar  
+  **Organizer, Spring 2021**
