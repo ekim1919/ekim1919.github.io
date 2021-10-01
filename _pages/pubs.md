@@ -14,11 +14,12 @@ title: Academic Work
 * [Automatic Dynamic Parallelotope Bundles for Reachability Analysis of Nonlinear Systems]()  
   **Edward Kim**, Stanley Bak, Parasara Sridhar Duggirala  
   **19th International Conference on Formal Modeling and Analysis of Timed Systems (FORMATS 2021)**     
-  ([Extended arXiv Version](https://arxiv.org/abs/2105.11796), [Presentation](https://www.youtube.com/watch?v=YKyXf3_O5XM))
+  ([Extended arXiv Version](https://arxiv.org/abs/2105.11796), [Slides]({% link files/formats21.pdf %}), [Presentation](https://www.youtube.com/watch?v=YKyXf3_O5XM))
 
 * [Kaa: A Python Implementation of Reachable Set Computation Using Bernstein Polynomial](https://easychair.org/publications/open/Flp2)  
   **Edward Kim**, Parasara Sridhar Duggirala  
- **7th Int. Workshop on Applied Verification for Continuous and Hybrid Systems (ARCH 2020)**
+ **7th Int. Workshop on Applied Verification for Continuous and Hybrid Systems (ARCH 2020)**  
+ ([Slides]({% link files/ARCH2020.pdf %}))
 
 * [Some inequalities involving geometric and harmonic means]()  
   Wei-Kai Lai, **Edward Kim**  
