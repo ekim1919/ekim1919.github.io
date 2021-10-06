@@ -6,6 +6,12 @@ title: Academic Work
 
 ## Publications
 
+(*)-WIP
+
+* *[Testcase Generation for Autonomous Racing Vehicles Through Fuzz Testing Techniques]()  
+  Sanaz Sheikhi, **Edward Kim**, Stanley Bak, Parasara Sridhar Duggirala  
+  **To be submitted to 2021 CPS-IOT Week**
+
 
 * [ARCH-COMP21 Category Report: Continuous and Hybrid Systems with Nonlinear Dynamics]()  
   Luca Geretti, Julien Alexandre dit Sandretto, Matthias Althoff, Luis Benet, Alexandre Chapoutot, Pieter Collins, Parasara Sridhar Duggirala, Marcelo Forets, **Edward Kim**, Uziel Linares, David P. Sanders, Christian Schilling, and Mark Wetzlinger  
