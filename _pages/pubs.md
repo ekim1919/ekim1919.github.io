@@ -6,6 +6,7 @@ title: Academic Work
 
 ## Publications
 
+
 * [ARCH-COMP21 Category Report: Continuous and Hybrid Systems with Nonlinear Dynamics]()  
   Luca Geretti, Julien Alexandre dit Sandretto, Matthias Althoff, Luis Benet, Alexandre Chapoutot, Pieter Collins, Parasara Sridhar Duggirala, Marcelo Forets, **Edward Kim**, Uziel Linares, David P. Sanders, Christian Schilling, and Mark Wetzlinger  
   **8th Int. Workshop on Applied Verification for Continuous and Hybrid Systems (ARCH 2021)**
@@ -37,7 +38,12 @@ title: Academic Work
 
 ## Expositions
 
+(*)-WIP
+
 ### Computational Complexity
+
+* *[Unique Games and connections to Quantum Complexity]()       
+Currently writing as a supplement to the Analysis on Boolean Functions class (Duke COMPSCI 590). An exposition on the Unique Games Conjecture, The PCP Theorem, and some connections to Quantum Complexity and Information. Specific attention is given to topics with overlaps in Hypercontractivity, Non-local Games, and the Quantum PCP Conjecture.
 
 * [On the Fourier Analysis of Boolean Functions and the Linial-Mansour-Nisan Theorem](https://github.com/ekim1919/Research/blob/master/Complexity/LMNTheorem/paper.pdf)  
   Written as final project for Circuit Complexity class (Duke CPS 590).
@@ -49,6 +55,10 @@ title: Academic Work
 
 * [On the Schur-Weyl Duality and its Role in Quantum Information](https://github.com/ekim1919/QuanInformation/blob/master/SchurWeyl/final.pdf)  
   An exposition of the Schur-Weyl Duality and its role in seminal proofs found in Quantum Information Theory. The final project for Quantum Information Theory class (Duke PHYS 590). The notes are still in the process of being extended as I learn more about representation-theoretic techniques used in QIT.
+
+* *[Quantum Expanders and their Applications]({% link files/QEProposal.pdf %})  
+  Notes on the definitions of Quantum Expanders and their tensor-product counterparts with specific attention to applications in Quantum Information Theory. Applications include Hastings' study of the entanglement entropy of some gapped one-dimensional systems and Quasirandom Quantum Channels. These notes are created to prepare for a reading group on QIT during the Spring 2022 semester.
+
 
 ---
 
