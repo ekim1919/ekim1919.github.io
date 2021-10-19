@@ -8,9 +8,9 @@ title: Academic Work
 
 (*)-WIP
 
-* *[Testcase Generation for Autonomous Racing Vehicles Through Fuzz Testing Techniques]()  
-  Sanaz Sheikhi, **Edward Kim**, Stanley Bak, Parasara Sridhar Duggirala  
-  **To be submitted to 2021 CPS-IOT Week**
+* *[CPSFuzz: Probabilistic Fuzzer for Testing Cyber Physical Systems]()  
+  Sanaz Sheikhi, Stanley Bak, Parasara Sridhar Duggirala, **Edward Kim** 
+  **To be submitted to ICCPS 2021**
 
 
 * [ARCH-COMP21 Category Report: Continuous and Hybrid Systems with Nonlinear Dynamics]()  
