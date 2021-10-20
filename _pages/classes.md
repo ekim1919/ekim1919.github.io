@@ -9,8 +9,8 @@ permalink: /courses/
 |CS | Mathematics | Quantum Information |
 | :------------: | :-----------: | :-----------: |
 |Randomized Algorithms     |  Representation Theory of Lie Algebras              | Quantum Information Theory |
-|Circuit Complexity Theory     |   Differential Geometry   | Advanced Topics in QIT |
-| Harmonic Anaysis of Boolean Functions   |  Lie Groups  | |
+|Boolean Function Complexity   |   Differential Geometry   | Advanced Topics in QIT |
+| Anaysis of Boolean Functions   |  Lie Groups  | |
 | Introduction to Cryptography      | Topological Data Analysis | |
 | Computer Vision |Homological Algebra | |
 
