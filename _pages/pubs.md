@@ -66,6 +66,10 @@ Currently writing as a supplement to the Analysis on Boolean Functions class (Du
 * *[Quantum Expanders and their Applications]({% link files/QEProposal.pdf %})  
   Notes on the definitions of Quantum Expanders and their tensor-product counterparts with specific attention to applications in Quantum Information Theory. Applications include Hastings' study of the entanglement entropy of some gapped one-dimensional systems and Quasirandom Quantum Channels. These notes are created to prepare for a reading group on QIT during the Spring 2022 semester.
 
+### Mathematics
+
+* [Cohomology of Connected Compact Lie Groups](https://github.com/ekim1919/Research/blob/master/LieGroups/CohomologyofLG/cohom.pdf)  
+
 ---
 
 ## Services
