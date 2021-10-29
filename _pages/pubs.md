@@ -7,7 +7,7 @@ title: Academic Work
 ## Publications
 
 * [Coverage-Guided Fuzz Testing for Testing Cyber Physical Systems]()  
-  Sanaz Sheikhi, **Edward Kim**, Parasara Sridhar Duggirala, Stanley Bak
+  Sanaz Sheikhi, **Edward Kim**, Parasara Sridhar Duggirala, Stanley Bak  
   **13th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS 2022)**    
   Submitted
 
