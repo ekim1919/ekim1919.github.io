@@ -6,10 +6,10 @@ title: Academic Work
 
 ## Publications
 
-* [CPSFuzz: Probabilistic Fuzzer for Testing Cyber Physical Systems]()  
-  Sanaz Sheikhi, Stanley Bak, Parasara Sridhar Duggirala, **Edward Kim**  
+* [Coverage-Guided Fuzz Testing for Testing Cyber Physical Systems]()  
+  Sanaz Sheikhi, **Edward Kim**, Parasara Sridhar Duggirala, Stanley Bak
   **13th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS 2022)**    
-  To be submitted
+  Submitted
 
 
 * [ARCH-COMP21 Category Report: Continuous and Hybrid Systems with Nonlinear Dynamics]()  
