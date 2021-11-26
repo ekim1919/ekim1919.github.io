@@ -49,7 +49,7 @@ title: Academic Work
 
 ### Computational Complexity
 
-* *[Unique Games and connections to Quantum Complexity]()       
+* [Unique Games and connections to Quantum Complexity](https://github.com/ekim1919/Research/blob/master/Complexity/UGC/ugc.pdf)       
 Currently writing as a supplement to the Analysis on Boolean Functions class (Duke COMPSCI 590). An exposition on the Unique Games Conjecture, The PCP Theorem, and some connections to Quantum Complexity and Information. Specific attention is given to topics with overlaps in Hypercontractivity, Non-local Games, and the Quantum PCP Conjecture.
 
 * [On the Fourier Analysis of Boolean Functions and the Linial-Mansour-Nisan Theorem](https://github.com/ekim1919/Research/blob/master/Complexity/LMNTheorem/paper.pdf)  
