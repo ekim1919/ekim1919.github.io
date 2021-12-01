@@ -75,4 +75,17 @@ Currently writing as a supplement to the Analysis on Boolean Functions class (Du
 ## Services
 
 - UNC Real-Time/Cyber-Physical Lunch Seminar  
-  **Organizer, Spring 2021**
+  **Organizer, Spring 2021**  
+  I organized the Cyber-physical/Real-time Systems Lunch during the Spring 2020 semester. During the lunch, students and faculty involved in Autonomous Systems, Real-Time Systems, Cyber-physical Systems, and Formal Verification met to discuss research and present recently-published papers during an hour-long session each week.  
+
+    - Provided a weekly platform for graduate students to conduct practice talks and give guest lectures.
+    - Presented several talks on current research progress.
+
+
+- South Carolina State University Deep Learning Group  
+  **Research Mentor, Winter 2021**  
+  I will mentor undergraduate research students from under-represented minority groups in performing Machine Learning research. This research is sponsored by [South Carolina Cancer Disparities Research Center](https://hollingscancercenter.musc.edu/outreach/statewide-commitments/sc-cadre), a partnership between SCSU and MUSC Hollings Cancer Center to improve diversity in cancer research. My duties are as follows:
+
+    - Teach Python and Tensorflow to two undergraduate research assistants in Computer Science.
+    - Aid the research team in constructing deep learning models using Tensorflow.
+    - Provide programming mentorship and support during the Winter 2021 and Summer 2022 periods.  
