@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /work/
-title: Academic Work
+title: Academic Work and Services
 ---
 
 ## Publications
@@ -70,7 +70,7 @@ Currently writing as a supplement to the Analysis on Boolean Functions class (Du
 ### Mathematics
 
 * [Cohomology of Connected Compact Lie Groups](https://github.com/ekim1919/Research/blob/master/LieGroups/CohomologyofLG/cohom.pdf)  
-Notes on the DeRahm Cohomology of Bi-invariant Forms over Connected Compact Lie Groups. Written for Lie Groups course.
+Notes on the DeRham Cohomology of bi-invariant Forms over Connected Compact Lie Groups. Written for Lie Groups course.
 
 ---
 
