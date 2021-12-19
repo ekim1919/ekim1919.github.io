@@ -14,7 +14,8 @@ title: Academic Work
 
 * [ARCH-COMP21 Category Report: Continuous and Hybrid Systems with Nonlinear Dynamics]()  
   Luca Geretti, Julien Alexandre dit Sandretto, Matthias Althoff, Luis Benet, Alexandre Chapoutot, Pieter Collins, Parasara Sridhar Duggirala, Marcelo Forets, **Edward Kim**, Uziel Linares, David P. Sanders, Christian Schilling, and Mark Wetzlinger  
-  **8th Int. Workshop on Applied Verification for Continuous and Hybrid Systems (ARCH 2021)**
+  **8th Int. Workshop on Applied Verification for Continuous and Hybrid Systems (ARCH 2021)**  
+  ([Link](https://easychair.org/publications/paper/GWwz))
 
 
 * [Automatic Dynamic Parallelotope Bundles for Reachability Analysis of Nonlinear Systems]()  
@@ -24,10 +25,10 @@ title: Academic Work
 
   ([Lecture Notes in Theoretical CS, volume 12860](https://link.springer.com/book/10.1007/978-3-030-85037-1))
 
-* [Kaa: A Python Implementation of Reachable Set Computation Using Bernstein Polynomial](https://easychair.org/publications/open/Flp2)  
+* [Kaa: A Python Implementation of Reachable Set Computation Using Bernstein Polynomial]()  
   **Edward Kim**, Parasara Sridhar Duggirala  
  **7th Int. Workshop on Applied Verification for Continuous and Hybrid Systems (ARCH 2020)**  
- ([Slides]({% link files/ARCH2020.pdf %}), [Proceedings](https://easychair.org/publications/volume/ARCH20))
+ ([Slides]({% link files/ARCH2020.pdf %}), [Link](https://easychair.org/publications/open/Flp2))
 
 * [Some inequalities involving geometric and harmonic means]()  
   Wei-Kai Lai, **Edward Kim**  
@@ -69,10 +70,19 @@ Currently writing as a supplement to the Analysis on Boolean Functions class (Du
 ### Mathematics
 
 * [Cohomology of Connected Compact Lie Groups](https://github.com/ekim1919/Research/blob/master/LieGroups/CohomologyofLG/cohom.pdf)  
+Notes on the DeRahm Cohomology of Bi-invariant Forms over Connected Compact Lie Groups. Written for Lie Groups course.
 
 ---
 
 ## Services
+
+- **Information and Computation**  
+  **Reviewer, January 2022**  
+  I will be participating as a reviewer for an upcoming special issue of Information and Computation titled *Formal Verification of Cyber-Physical Systems*, which will focus topics focused on reachability analysis in CPS.
+
+- [**CAV 2022**](http://i-cav.org/2022/organization/)  
+  **Artifact Evaluation Commitee Member, May 2022**  
+  I will be participating as a member of the Artifact Evaluation Commitee for the upcoming 34th International Conference on Computer Aided Verification.
 
 - **UNC Real-Time/Cyber-Physical Lunch Seminar**  
   **Organizer, Spring 2021**  
