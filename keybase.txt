@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/ehkim
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ekim1919.github.io
+  * I am ehkim (https://keybase.io/ehkim) on keybase.
+  * I have a public key ASCyW5uhvRKafeseZPzytyGb_e-aU9_1zyp5HxK50um3uQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b25b9ba1bd129a7deb1e64fcf2b7219bfdef9a53dff5cf2a791f12b9d2e9b7b90a",
+      "host": "keybase.io",
+      "kid": "0120b25b9ba1bd129a7deb1e64fcf2b7219bfdef9a53dff5cf2a791f12b9d2e9b7b90a",
+      "uid": "0f3f633a9f9824a700529e88b5d9fe19",
+      "username": "ehkim"
+    },
+    "merkle_root": {
+      "ctime": 1641136224,
+      "hash": "ca0fab8c32559d13f7bd55e15a988f261bf9f7f42dfc3ad194c6874ffb03575a726baf00d53d26bae563cce90bb0d8fbc97be28da897e3ac4a6d3ec33ca63631",
+      "hash_meta": "cf8f5a7171ff20ab20e7b29b688fc5c9d796212195b2b5c0b0be69c2aee8141c",
+      "seqno": 21545478
+    },
+    "service": {
+      "entropy": "TXQdDQO8Q7ttKFh9em01Csh7",
+      "hostname": "ekim1919.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1641136253,
+  "expire_in": 504576000,
+  "prev": "19987fa3045939b0ecd3fb7f3a51e4fee1fbe57eda12c292eaf95f8febdab9de",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgslubob0Smn3rHmT88rchm/3vmlPf9c8qeR8SudLpt7kKp3BheWxvYWTESpcCBsQgGZh/owRZObDs0/t/OlHk/uH75X7aEsKS6vlfj+vaud7EIMjej3M+WJ5colkmHmgRRGhMUMUjp7wcKFkev4njj5ToAgHCo3NpZ8RApvOGKj03q8B7ZYptb2aoPM22w6me8R5FRDZodGfKcHNyUCmNda/xl/lnPA8Lk2zeViME7lzV4QadGO2hzbsVBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJVRWGGeh5OX9TmG7PHyYFsHEGQ23BTe3OxtScM77HFKo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ehkim
+
+==================================================================
