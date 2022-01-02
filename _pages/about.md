@@ -18,7 +18,7 @@ Besides the above, I have hobby interests in Pure Math, Machine Learning, Homebr
 
 [Link to CV](https://github.com/ekim1919/CV/blob/master/current/EdwardKimCV.pdf)  
 [List of Courses]({% link _pages/classes.md %})  
-[Keybase.io](https://keybase.io/ehkim)
+[Keybase.io](https://keybase.io/ehkim)  
 [PGP Pubkey](https://keybase.io/ehkim/key.asc)  
 [Github](https://github.com/ekim1919)
 
