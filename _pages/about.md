@@ -20,7 +20,7 @@ Quantum Information Theory:
   - Topological Entanglement Theory.
   - Representation-theoretic techniques in Quantum Information Theory.
 
-Besides the above, I have hobby interests in Pure Math, Machine Learning, Homebrew/Retro Computing, Cryptocurrencies, and Type Theory.
+Besides the above, I have hobby interests in Pure Math, Machine Learning, Homebrew/Retro Computing, Cryptography, and Type Theory.
 
 [Link to CV](https://github.com/ekim1919/CV/blob/master/current/EdwardKimCV.pdf)  
 [List of Courses]({% link _pages/classes.md %})  
