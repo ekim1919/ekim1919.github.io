@@ -79,9 +79,13 @@ Notes on the DeRham Cohomology of bi-invariant Forms over Connected Compact Lie 
   **Reviewer, January 2022**  
   I will be participating as a reviewer for an upcoming special issue of Information and Computation titled *Formal Verification of Cyber-Physical Systems*, which will focus topics focused on reachability analysis in CPS.
 
+  
+- [**ICCPS 2022**](https://iccps.acm.org/2022/)  
+  **Artifact Evaluation Commitee Member, January 2022**  
+  I will be participating as a member of the Artifact Evaluation Program Commitee for the 13th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS 2022)
 - [**CAV 2022**](http://i-cav.org/2022/organization/)  
   **Artifact Evaluation Commitee Member, May 2022**  
-  I will be participating as a member of the Artifact Evaluation Commitee for the upcoming 34th International Conference on Computer Aided Verification.
+  I will be participating as a member of the Artifact Evaluation Program Commitee for the upcoming 34th International Conference on Computer Aided Verification.
 
 - **UNC Real-Time/Cyber-Physical Lunch Seminar**  
   **Organizer, Spring 2021**  
@@ -89,7 +93,6 @@ Notes on the DeRham Cohomology of bi-invariant Forms over Connected Compact Lie 
 
     - Provided a weekly platform for graduate students to conduct practice talks and give guest lectures.
     - Presented several talks on current research progress.
-
 
 - **South Carolina State University Deep Learning Group**  
   **Research Mentor, Winter 2021**  
