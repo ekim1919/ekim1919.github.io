@@ -13,7 +13,7 @@ permalink: /courses/
 | Anaysis of Boolean Functions   |  Lie Groups  | Quantum Error Correction |
 | Introduction to Cryptography      | Topological Data Analysis | |
 | Computer Vision |Homological Algebra | |
-| Topics in Cryptography | |
+
 
 
 # UC Berkeley
