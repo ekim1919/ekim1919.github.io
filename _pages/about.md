@@ -14,8 +14,8 @@ redirect_from:
 
   - Topological Quantum Codes, especially those arising from Homological invariants.
   - Quantum LDPC Codes
-  - TQFTs, connections between Condensed Matter and Quantum Information
-  - General intersections between Mathematical Physics and Computer Science
+  - Topological Quantum Field Theories (TQFTs)
+  - Connections between Condensed Matter, Quantum Information, and Complexity Theory
   
 
 [Link to CV](https://github.com/ekim1919/CV/blob/master/current/EdwardKimCV.pdf)  
