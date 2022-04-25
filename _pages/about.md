@@ -14,7 +14,7 @@ redirect_from:
 
   - Topological Quantum Codes, especially those arising from Homological invariants.
   - Quantum LDPC Codes
-  - Topological Order, Topological Quantum Field Theories (TQFTs)
+  - Topological Quantum Order, Topological Quantum Field Theories (TQFTs)
   - Connections between Condensed Matter, Quantum Information, and Complexity Theory
   
 
