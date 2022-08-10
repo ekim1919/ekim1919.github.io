@@ -4,6 +4,12 @@ title: Selected Courses
 permalink: /courses/
 ---
 
+# USC
+| Physics |
+|:------------:|
+|Quantum Mechanics|
+|Methods of Mathematical Physics|
+
 # UNC Chapel Hill / Duke
 
 |CS | Mathematics | Quantum Information |
