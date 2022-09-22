@@ -5,10 +5,11 @@ permalink: /courses/
 ---
 
 # USC
+
 | Physics |
-|:------------:|
-|Partial Differential Equations|
-|Methods of Mathematical Physics|
+|:------------: |
+|Partial Differential Equations |
+|Methods of Mathematical Physics |
 
 # UNC Chapel Hill / Duke
 

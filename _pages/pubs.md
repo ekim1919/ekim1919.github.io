@@ -4,13 +4,7 @@ permalink: /work/
 title: Academic Work and Services
 ---
 
-## Publications
-
-[Masters Pubs.]({% link _pages/ms.md %})
-
 ## Expositions
-
-(*)-WIP
 
 ### Computational Complexity
 
@@ -37,6 +31,10 @@ Currently writing as a supplement to the Analysis on Boolean Functions class (Du
 Notes on the DeRham Cohomology of bi-invariant Forms over Connected Compact Lie Groups. Written for Lie Groups course.
 
 ---
+
+## Misc. Publications
+
+[Masters Pubs.]({% link _pages/ms.md %})
 
 ## Services
 
