@@ -13,12 +13,12 @@ redirect_from:
  I also learned a bit of Theoretical CS (mostly Complexity Theory) and Quantum Computing from the neighboring [Duke University](https://www.cs.duke.edu/) commuity, where I've had the fortune of learning and receiving guidance from [Prof. Iman Marvian](https://sites.duke.edu/marvian/) in the realm of Quantum Computation and Information.
 
 
- I'm generally interested in **Quantum Error Correction** and **Quantum Information Theory**. My research predilections lie in **Topological Quantum Computation**. I am striving to learn topics residing in one of the fields below:
+ I'm generally interested in **Quantum Error Correction** and **Quantum Information Theory**. My research predilections lie in **Topological Quantum Computation**. I am striving to learn and explore topics residing in one of the fields below:
 
   - Topological Quantum Codes, especially those arising from Homological invariants.
   - Quantum LDPC Codes
-  - Entanglement Theory
-  - Topological Quantum Field Theories (TQFTs)
+  - Quantum PCPs, Non-local Games
+  - Topological Quantum Order, TQFTs
   - Quantum Algebra and Quantum Topology.
 
 
