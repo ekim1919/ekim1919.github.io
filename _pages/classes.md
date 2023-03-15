@@ -6,10 +6,11 @@ permalink: /courses/
 
 # USC
 
-| Physics |
-|:------------: |
-|Partial Differential Equations |
+| Physics | ECE
+|:------------: |:------------:|
+|Grad Quantum Mechanics | Stochastic Processes
 |Methods of Mathematical Physics |
+|Topological Phases in Condensed Matter|
 
 # UNC Chapel Hill / Duke
 
