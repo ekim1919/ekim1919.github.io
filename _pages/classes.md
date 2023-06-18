@@ -6,11 +6,10 @@ permalink: /courses/
 
 # USC
 
-| Physics | ECE
-|:------------: |:------------:|
-|Grad Quantum Mechanics | Stochastic Processes
-|Methods of Mathematical Physics |
-|Topological Phases in Condensed Matter|
+| Physics | ECE | Mathematics
+|:------------: |:------------:| :------------:|
+| Methods of Mathematical Physics | Stochastic Processes | Algebraic Topology 
+| | Algebra  |
 
 # UNC Chapel Hill / Duke
 
